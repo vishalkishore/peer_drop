@@ -1,0 +1,7 @@
+*.png
+*.exe
+*.gif
+received_files/
+test/
+/sent_files/
+
